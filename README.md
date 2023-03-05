@@ -1,7 +1,6 @@
 
 # Project Title
 
-Final project for the Building AI course
 Helping people manage their mental health by predicting depression levels using Machine Learning
 
 ## Summary
