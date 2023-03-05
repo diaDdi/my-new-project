@@ -1,5 +1,4 @@
 
-# Project title 
 # Healthy people
 
 Helping people manage their mental health by predicting depression levels using Machine Learning
